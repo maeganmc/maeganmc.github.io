@@ -15,10 +15,4 @@ summary: I used computational science to analyze Tasmanian Devil facial tumor di
 
 <img class="ui medium right floated rounded image" src="../images/rsz_biology.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+In high school, I completed a research paper using computational biology methods to compare the two known types of clonally transmissible cancer, Tasmanian devil facial tumor disease (DFTD) and canine transmissible veneral tumor (CTVT). To do this, I identified the specific protiens or genes that are considered to be markers for the different types of cancers and then employed several different biology databases such as Ensembl and UniProt to create computational profiles for the genes that represented both diseases. It was concluded that CTVT's marker genes tend to be expressed in much more localized locations than DFTD's, which is why DFTD is much harder to treat than CTVT.  
