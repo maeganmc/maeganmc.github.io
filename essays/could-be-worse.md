@@ -6,6 +6,7 @@ title: JavaScript: Not As Horrible As I Thought
 date: 2020-01-21
 labels:
   - JavaScript
+  - Athletic software engineering
 ---
 
 ## Over My Head? 
