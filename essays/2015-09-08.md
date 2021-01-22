@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: JavaScript: Not As Horrible As I Thought
+title: JavaScript is Not As Horrible As I Thought
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-21
 labels:
