@@ -12,7 +12,10 @@ labels:
 summary: A small-scale app using the Google Maps api to tour my neighborhood and hometown. 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/rsz_downtown-greensboro.jpg">
+  <img class="ui image" src="../images/rsz_blockly.jpg">
+</div>
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
