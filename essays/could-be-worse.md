@@ -9,6 +9,8 @@ labels:
   - Athletic software engineering
 ---
 
+<img class="ui medium left floated image" src="../images/rsz_javascript.jpg">    
+
 ## Over My Head? 
 
 I know very little about computer science. My first day of ICS 314, my nerves were through the roof. I had been told the class was hard, although not why, and that many people had to retake it. As a shaky programmer at best, barely adequate in Java only, I felt overwhelmed looking at the lines of code in an unfamiliar language. My fears were quickly banished, however, by a dawning realization that, hey, JavaScript isn’t so bad! Perhaps the comfort I have rapidly achieved with this language is due to my previous experience with Java – although the languages, of course, are different, they do share some fundamentals of coding that I had already been introduced to, like defining variables and creating functions. After making it through the first week and several FreeCodeCamp JavaScript lessons, I had regained my confidence that not only would I pass ICS 314, but I would also excel in it. 
