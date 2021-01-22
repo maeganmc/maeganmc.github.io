@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: images/rsz_maxresdefault.jpg
-title: A small-scale app using the Google Maps api to tour my neighborhood and hometown. 
+title: Hometown Tour
 permalink: projects/neighborhoodtour
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:
   - Lisp
   - GitHub
-summary: A text adventure game I developed for ICS 313.
+summary: A small-scale app using the Google Maps api to tour my neighborhood and hometown. 
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
