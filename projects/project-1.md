@@ -20,9 +20,9 @@ summary: As an assignment in ICS 212, I implemented a recursive method to find a
 
 In my ICS 212 course, I was tasked to find a way to solve a given hexadecimal sudoku problem using recusion and Eclipse. I was given help and assistance with code by my professor, Carleton Moore, and classmates I bounced errors off of. The recursive strategy for finding a solution to a sudoku problem was: 
 
-"1. If all cells are filled, see if this Sudoku is valid. If it is valid, we have found a solution. If not, this Sudoku is not a solution. Base case 1
+"i. If all cells are filled, see if this Sudoku is valid. If it is valid, we have found a solution. If not, this Sudoku is not a solution. Base case 1
 
-2. If at least one cell is not filled, see what values are legal for this cell:
+ii. If at least one cell is not filled, see what values are legal for this cell:
 
   - If no values are legal, then this Sudoku is not a solution. Base case 2
 
