@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The lonely year online
+title: A Lonely Year Online Led Me to Software Engineering
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-21
 labels:
