@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/tasmanian.png
-title: Computational Analysis of a Tasmanian Devil disease
+image: images/rsz_tasmanian.jpg
+title: Computational Analysis of Tasmanian Devil facial tumor disease
 permalink: projects/tasmaniandevil
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-30
