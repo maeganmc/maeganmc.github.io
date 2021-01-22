@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/rsz_tasmanian.jpg
-title: Computational Analysis of Tasmanian Devil facial tumor disease
+title: Computational Analysis 
 permalink: projects/tasmaniandevil
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-30
@@ -10,7 +10,7 @@ labels:
   - Mathematica
   - Computational biology
   - Tasmanian Devil 
-summary: A research paper completed in my senior of high school that used computational science to analyze Tasmanian Devil facial tumor disease through comparison with canine transmissible veneral tumor. 
+summary: I used computational science to analyze Tasmanian Devil facial tumor disease by a comparison with canine transmissible veneral tumor. 
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
