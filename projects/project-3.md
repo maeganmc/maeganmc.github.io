@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/rsz_maxresdefault.jpg
+image: images/rsz_maxresdefault_1.jpg
 title: Hometown Tour
 permalink: projects/neighborhoodtour
 # All dates must be YYYY-MM-DD format!
