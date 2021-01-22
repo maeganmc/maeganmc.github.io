@@ -17,25 +17,21 @@ summary: As an assignment in ICS 212, I implemented a recursive method to find a
   <img class="ui image" src="../images/rsz_sudokubook.jpg">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+In my ICS 212 course, I was tasked to find a way to solve a given hexadecimal sudoku problem using recusion and Eclipse. I was given help and assistance with code by my professor, Carleton Moore, and classmates I bounced errors off of. The recursive strategy for finding a solution to a sudoku problem was: 
 
-Here is some code that illustrates how we read values from the line sensors:
+"1. If all cells are filled, see if this Sudoku is valid. If it is valid, we have found a solution. If not, this Sudoku is not a solution. Base case 1
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+2. If at least one cell is not filled, see what values are legal for this cell:
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+  - If no values are legal, then this Sudoku is not a solution. Base case 2
 
+  - If one or more values are legal, place each legal values in the cell in turn, one at a time. For each legal value, recursively attempt to find a solution that fills the remaining empty cells.
 
+  - If a solution is found for at least one legal value, set the Sudoku to reflect this solution, and return that a solution was found.
 
+  - If no solution is found for any legal value, reset this cell to the value it had when this method was called, and report that this Sudoku does not have a solution.
+
+  - Every time the code recursively attempts to find a solution, it will fill cells in the Sudoku grid. If the attempt is not successful, returning, your code must restore the Sudoku grid to the values had before the call.
+
+The algorithm I eventually developed was an example of backtracking, and I certainly had to backtrack often as well in order to fix both logic and coding errors in my program. I managed to solve sudoku problems using a recursive strategy at the end of the day, however! 
