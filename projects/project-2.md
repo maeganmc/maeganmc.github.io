@@ -1,17 +1,16 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/tasmanian.png
+title: Computational Analysis of a Tasmanian Devil disease
+permalink: projects/tasmaniandevil
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-05-30
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Mathematica
+  - Computational biology
+  - Tasmanian Devil 
+summary: A research paper completed in my senior of high school that used computational science to analyze Tasmanian Devil facial tumor disease through comparison with canine transmissible veneral tumor. 
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
