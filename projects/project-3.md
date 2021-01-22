@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/rsz_maxresdefault.jpg
+title: A small-scale app using the Google Maps api to tour my neighborhood and hometown. 
+permalink: projects/neighborhoodtour
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:
