@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/rsz_tasmanian.jpg
+image: images/rsz_devil.jpg
 title: Computational Analysis 
 permalink: projects/tasmaniandevil
 # All dates must be YYYY-MM-DD format!
