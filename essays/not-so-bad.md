@@ -9,7 +9,7 @@ labels:
   - Athletic Software Engineering
 ---
 
-<img class="ui medium left floated image" src="../images/rtfm.png">
+<img class="ui medium left floated image" src="../images/rsz_javascript.jpg">
 
 ## Over My Head? 
 
