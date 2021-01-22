@@ -7,8 +7,8 @@ permalink: projects/neighborhoodtour
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:
-  - Lisp
-  - GitHub
+  - Blockly
+  - Google Maps API
 summary: A small-scale app using the Google Maps API to tour my neighborhood and hometown. 
 ---
 
