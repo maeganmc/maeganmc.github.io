@@ -32,6 +32,6 @@ In my ICS 212 course, I was tasked to find a way to solve a given hexadecimal su
 
   - If no solution is found for any legal value, reset this cell to the value it had when this method was called, and report that this Sudoku does not have a solution.
 
-  - Every time the code recursively attempts to find a solution, it will fill cells in the Sudoku grid. If the attempt is not successful, returning, your code must restore the Sudoku grid to the values had before the call.
+  - Every time the code recursively attempts to find a solution, it will fill cells in the Sudoku grid. If the attempt is not successful, returning, your code must restore the Sudoku grid to the values had before the call."
 
 The algorithm I eventually developed was an example of backtracking, and I certainly had to backtrack often as well in order to fix both logic and coding errors in my program. I managed to solve sudoku problems using a recursive strategy at the end of the day, however! 
