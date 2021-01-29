@@ -13,10 +13,7 @@ labels:
 summary: As an assignment in ICS 212, I implemented a recursive method to find a solution for a hexadecimal problem. 
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/rsz_1469941489383.jpg">
-</div>
-
+<img class="ui medium right floated rounded image" src="../images/rsz_1469941489383.jpg">
 
 In my ICS 212 course, I was tasked to find a way to solve a given hexadecimal sudoku problem using recusion, Java, and Eclipse. I was given help and assistance with code by my professor, Carleton Moore, and classmates I bounced errors off of. The recursive strategy for finding a solution to a sudoku problem was: 
 
