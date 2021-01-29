@@ -15,10 +15,10 @@ labels:
 
 It is likely that many people have heard the phrase, “There are no stupid questions,” at least once in their lives. Armed with this knowledge, some of these individuals may strut into Q&A forums like Stack Overflow and blurt out whatever ill-conceived query comes to mind, expecting frequenters to bow down to the familiar precept - even as their eye might twitch ever so slightly - and construct an answer, packaged in civility to rival a debutant’s, that addresses each facet of their confusion. “I need help ASAP,” posters may demand boldly. Unfortunately (or perhaps, fortunately, as a form of discouragement of laziness), the respondents of Stack Overflow will answer just as baldly: “RTFM”; “STFW”; “Have you heard of this new invention called Google?” All and more are acceptable answers to the what are considered “non-smart” (less politically correctly, frankly, dumb) questions that pop up with some regularity everywhere that questions are asked. 
 
-## I’ve Got This (Probably) 
+## Why Good Questions Are Good
 
 
 
-## A Stressful Success
+## Be Dumb Smartly
 
 
