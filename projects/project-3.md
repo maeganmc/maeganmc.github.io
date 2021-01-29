@@ -13,7 +13,7 @@ summary: A small-scale app using the Google Maps API to tour my neighborhood and
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/googlemaps.png">
+  <img class="ui image" src="../images/googlemaps.PNG">
   <img class="ui image" src="../images/rsz_blockly.jpg">
 </div>
 
