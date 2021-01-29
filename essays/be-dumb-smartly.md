@@ -23,7 +23,7 @@ No one will deny that the fields of software engineering and computer programmin
 
 ## Why Good Questions Are Good
 
-
+It is extremely important for software engineers and other would-be experts in similar technical fields to become very familiar with the process of asking smart questions. As mentioned earlier, such fields are expansive and unlikely to be mastered in entirety by any one individual. To be successful in software engineering, etc., the individual needs to know how to find information on their own through independent research (Googling, reading documentation/earlier questions) and when it is appropriate to post a question of their own to ask for someone else’s expertise. A smart question asker is someone who can diagnose and solve many of their own problems, and is considerate of both their own and others’ times.   
 
 
 
