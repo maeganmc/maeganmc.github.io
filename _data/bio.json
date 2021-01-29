@@ -54,22 +54,23 @@
       ]
     },
   ],
-  "education": [
+   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2022)",
       "studyType": "B.S.",
-      "startDate": "2018-08-27",
-      "endDate": "2022-05-22",
+      "startDate": "2018-08-37",
+      "endDate": "2022-05-23",
       "gpa": "3.94",
-      "courses": [ 
-        "ICS 111 - Introduction to Computer Science I"
-        "ICS 211 - Introduction to Computer Science II"
-        "MATH 301 - Intro to Discrete Mathematics"
-        "MATH 307 - Linear Algebra & Differential Equations"
+      "courses": [
+        "ICS 111 - Introduction to Computer Science I",
+        "ICS 211 - Introduction to Computer Science II",
+        "MATH 301 - Intro to Discrete Mathematics",
+        "MATH 307 - Linear Algebra & Differential Equations",
         "MATH 372 - Elementary Probability & Statistics"
-  ]
-        },
+      ]
+    }
+  ],
   "work": [
     {
       "company": "STAR",
