@@ -9,7 +9,7 @@ labels:
   - Smart questions
 ---
 
-<img class="ui medium left floated image" src="../images/javascript.PNG">    
+<img class="ui medium left floated image" src="../images/scL31Sf.png">    
 
 ## Stupid Questions Are Stupid
 
