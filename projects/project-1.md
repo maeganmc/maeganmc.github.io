@@ -14,7 +14,7 @@ summary: As an assignment in ICS 212, I implemented a recursive method to find a
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/rsz_sudokubook.jpg">
+  <img class="ui image" src="../images/rsz_1469941489383.jpg">
 </div>
 
 
