@@ -63,12 +63,12 @@
       "endDate": "2022-05-22",
       "gpa": "3.94",
       "courses": [ 
-        {
         "ICS 111 - Introduction to Computer Science I",
         "ICS 211 - Introduction to Computer Science II",
         "MATH 301 - Intro to Discrete Mathematics",
         "MATH 307 - Linear Algebra & Differential Equations",
         "MATH 372 - Elementary Probability & Statistics"
+          ]
     }
   ],
   "work": [
