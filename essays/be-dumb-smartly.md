@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Asking Questions for Beginners
+title: Asking Questions for (Dummies) Beginners
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-28
 labels:
