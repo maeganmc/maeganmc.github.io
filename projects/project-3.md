@@ -12,7 +12,7 @@ labels:
 summary: A small-scale app using the Google Maps API to tour my neighborhood and hometown. 
 ---
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/googlemaps.PNG">
   <img class="ui image" src="../images/code.PNG">
 </div>
