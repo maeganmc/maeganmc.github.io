@@ -12,6 +12,8 @@ labels:
 
 <img class="ui large center floated image" src="../images/code_quality_2x.png">    
 
+
+
 ## Life Without Code Quality Control
 
 It was my third hour staring at the screen without having made any changes. I had combed through each line of code multiple times – hadn’t I? – and yet I still had not found the error that was preventing my program from executing. Finally, I cracked and sent my intimidating teacher an email pleading for assistance. At that point, I could not care less whether he got back to me in time to submit the assignment; I just wanted to know I had not been defeated by a measly 50-line program. I continued to feverishly analyze my code and refresh my inbox until, at last, he had replied. His answer was one line: “There is an extra space in the exponent in line 19.” 
