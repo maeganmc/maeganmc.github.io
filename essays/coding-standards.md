@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Everyone Needs Coding Standards in Their Life
+title: Everyone Needs Coding Standards in Their Lives
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-11
 labels:
