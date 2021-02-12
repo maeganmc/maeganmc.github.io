@@ -10,7 +10,7 @@ labels:
   - coding standards
 ---
 
-<img class="ui medium left floated image" src="../images/scL31Sf.png">    
+<img class="ui medium left floated image" src="../images/code_quality_2x.png">    
 
 ## Life Without Code Quality Control
 
