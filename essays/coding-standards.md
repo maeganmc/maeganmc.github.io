@@ -10,8 +10,7 @@ labels:
   - coding standards
 ---
 
-<img class="ui image circular" src="../images/code_quality_2x.png">
-
+<img class="ui large centered image" src="../images/code_quality_2x.png">    
 
 ## Life Without Code Quality Control
 
