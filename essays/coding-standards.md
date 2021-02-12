@@ -10,7 +10,7 @@ labels:
   - coding standards
 ---
 
-<img class="ui large center floated image" src="../images/code_quality_2x.png">    
+<img class="ui large centered floated image" src="../images/code_quality_2x.png">    
 
 
 
