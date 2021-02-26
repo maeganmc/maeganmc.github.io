@@ -10,9 +10,9 @@ labels:
   - web development
 ---
 
-<img class="ui tiny center image" src="../images/web development.png">    
+<img class="ui medium center image" src="../images/web development.png">    
 
-## Time to Move On
+# Time to Move On
 
 The little time I have had with a UI framework I have appreciated. It has opened my eyes up to the possibilities of HTML and CSS and inspired a new interest in web development to the point of consideration as a potential future career. Yet I am already ready to say my goodbyes to the world of UI frameworks.
 
