@@ -10,15 +10,17 @@ labels:
   - web development
 ---
 
-<img class="ui center image" src="../images/web development.png">    
+<img class="ui tiny center image" src="../images/web development.png">    
 
-# Time to Move On
+## Time to Move On
 
 The little time I have had with a UI framework I have appreciated. It has opened my eyes up to the possibilities of HTML and CSS and inspired a new interest in web development to the point of consideration as a potential future career. Yet I am already ready to say my goodbyes to the world of UI frameworks.
 
 # I liked Semantic UI . . . I think?
 
 Semantic UI is the first and only UI framework I have been exposed to so far, and my experience has been ultimately positive. It confused me at first as to why I was thinking about the framework with any negative connotation at all, until a later question I posed to myself revealed the answer. When I reflected on what I had learning using Semantic UI, the only real answer I could come up with was “how to use Semantic UI.” Creating my first mockup of a popular webpage with Semantic UI, I found myself not trying to understand the problems I had to solve in any deeper context than “is this possible to solve with Semantic UI”? If it was, it was usually a quick copy-and-paste, and brief edit, for a solution. If not, oh well, I guess the website did not really need that part after all.
+
+# No More Frameworks
 
 If my experience with Semantic UI is generalizable to other frameworks, then frameworks suffer from a strange dichotomy of being both empowering and limiting simultaneously. 
 
