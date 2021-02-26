@@ -10,7 +10,7 @@ labels:
   - web development
 ---
 
-<img class="ui medium centered image" src="../images/web development.png">    
+<img class="ui large centered image" src="../images/web development.png">    
 
 ## Time to Move On
 
