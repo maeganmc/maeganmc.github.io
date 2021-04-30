@@ -9,7 +9,7 @@ labels:
   - Meow Mapper
 ---
 
-<img class="ui medium left floated image" src="../images/javascript.PNG">    
+<img class="ui medium left floated image" src="../images/meow.PNG">    
 
 ## I'm a Computer Science student, not a . . .
 
