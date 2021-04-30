@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: But I Can't Sew
+title: Why Would I Need a Design Pattern? I Can't Sew
 # All dates must be YYYY-MM-DD format!
 date: 2021-04-30
 labels:
