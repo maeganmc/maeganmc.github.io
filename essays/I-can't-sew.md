@@ -22,5 +22,5 @@ But what's that easy? Not design patterns! To my consternation, I discovered des
 
 ## Meow Mapper
 
-In a project called [Meow Mapper](https://meowmapper.com/) that I created with several friends, I used multiple design patterns. 
+In a project called [Meow Mapper](https://meowmapper.com/) that I created with several friends in JavaScript, we used multiple design patterns. The prototype design pattern was utilized to create classes of objects like "Adopts" and "Snaps", which were used to fill out the respective collections of "Cats to Adopt" and "Cat Snaps" (which are just pictures of cats). These collections were then used to populate their eponymous pages, and let users upload their own pictures of cats to the “Snaps” collection and adopt cats in the “Adopts” collection.  
 
