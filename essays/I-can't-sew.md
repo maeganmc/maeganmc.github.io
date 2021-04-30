@@ -22,5 +22,5 @@ But what's that easy? Not design patterns! To my consternation, I discovered des
 
 ## Meow Mapper
 
-In a project called Meow Mapper[meowmapper.com] that I created with several friends, I used multiple design patterns. 
+In a project called [Meow Mapper](https://meowmapper.com/) that I created with several friends, I used multiple design patterns. 
 
