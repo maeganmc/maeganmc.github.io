@@ -11,7 +11,7 @@ labels:
   - web development
 ---
 
-<img class="ui medium left floated image" src="../images/website.PNG">    
+<img class="ui medium left floated image" src="../images/website.png">    
 
 ## Start at the Beginning
 
