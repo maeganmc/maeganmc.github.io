@@ -20,11 +20,11 @@ Using Meteor, basic Javascript, and a little HTML, I can officially say I have c
 
 In this project, I worked with three classmates. We divided up tasks fairly among us so that no one person had to complete an unfair amount of work. For my part, I was in charge of creating the "Snatch a Cat" page and both administrator and user pages and functionality for "Volunteers". To create the "Snatch a Cat" page, I had to learn how to and utilize schemas and reading data from a database. 
 
-<img class="ui center image" src="../images/snatch.PNG">
+<img class="ui medium right floated rounded image" src="../images/snatch.PNG">
 
 To create the pages and functionality for "Volunteers", I had to become competent in writing to databases using forms. 
 
-<img class="ui center image" src="../images/volunteer.PNG">
+<img class="ui medium right floated rounded image" src="../images/volunteer.PNG">
 
 All of this work was completing using IntelliJ, Github Organizations and repositories, and DigitalOcean to host the IP address and for deployment. For a more detailed history of this project's process and code, please visit our [Github Organization](https://github.com/meow-mapper) and our organization’s [GitHub Page](https://meow-mapper.github.io/). 
 
